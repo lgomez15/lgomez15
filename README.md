@@ -16,7 +16,7 @@ Hello, I'm Luis! 👋
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,react" />
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
 <p align="center">
