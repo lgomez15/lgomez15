@@ -37,7 +37,21 @@ Hello, I'm Luis! 👋
     <img src="https://skillicons.dev/icons?i=git,discord" />
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=lgomez15&show_icons=true">
+
+<hr>
+<detail>
+  <summary>Github Statistics</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lgomez15&show_icons=true&theme=dark">
+  </p>
+</detail>
+<detail>
+  <summary>Github Statistics</summary>
+  <p align="center">
+    <img src="https://wakatime.com/share/](https://wakatime.com/share/@018bc494-6fbe-45e3-acf0-9b1495c1e243/ad633720-3a25-431d-99ed-e743ba44aa54.svg)https://wakatime.com/share/@018bc494-6fbe-45e3-acf0-9b1495c1e243/ad633720-3a25-431d-99ed-e743ba44aa54.svg">
+  </p>
+</detail>
+<hr>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
