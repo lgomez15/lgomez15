@@ -37,7 +37,7 @@ Hello, I'm Luis! 👋
     <img src="https://skillicons.dev/icons?i=git,discord" />
   </a>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgomez15)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
