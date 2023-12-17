@@ -48,7 +48,7 @@ Hello, I'm Luis! 👋
 <detail>
   <summary>Github Statistics</summary>
   <p align="center">
-    <img src="https://wakatime.com/share/](https://wakatime.com/share/@018bc494-6fbe-45e3-acf0-9b1495c1e243/ad633720-3a25-431d-99ed-e743ba44aa54.svg)https://wakatime.com/share/@018bc494-6fbe-45e3-acf0-9b1495c1e243/ad633720-3a25-431d-99ed-e743ba44aa54.svg">
+<figure><embed src="https://wakatime.com/share/@018bc494-6fbe-45e3-acf0-9b1495c1e243/ad633720-3a25-431d-99ed-e743ba44aa54.svg"></embed></figure>
   </p>
 </detail>
 <hr>
