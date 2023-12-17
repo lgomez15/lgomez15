@@ -49,7 +49,7 @@ Hello, I'm Luis! 👋
 <detail>
   <summary>Coding Time Statistics</summary>
   <p align="center">
-<img src="src="https://wakatime.com/share/@018bc494-6fbe-45e3-acf0-9b1495c1e243/98869343-eed5-4ef1-b10b-b076f119c2a2.svg"" height=400 />
+<img src="https://wakatime.com/share/@018bc494-6fbe-45e3-acf0-9b1495c1e243/98869343-eed5-4ef1-b10b-b076f119c2a2.svg" height=400 />
   </p>
 </detail>
 
