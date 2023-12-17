@@ -46,6 +46,13 @@ Hello, I'm Luis! 👋
 <img src="https://wakatime.com/share/@018bc494-6fbe-45e3-acf0-9b1495c1e243/ad633720-3a25-431d-99ed-e743ba44aa54.svg" height=400 />
   </p>
 </detail>
+<detail>
+  <summary>Coding Time Statistics</summary>
+  <p align="center">
+<img src="src="https://wakatime.com/share/@018bc494-6fbe-45e3-acf0-9b1495c1e243/98869343-eed5-4ef1-b10b-b076f119c2a2.svg"" height=400 />
+  </p>
+</detail>
+
 <hr>
 <!--START_SECTION:waka-->
 
