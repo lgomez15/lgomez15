@@ -1,6 +1,6 @@
 ### About Me
 
-Hello, I'm Luis Roberto Gómez Veiga! 👋
+Hello, I'm Luis! 👋
 
 🌎 **Nationality:** Panamanian  
 📚 **Education:** Currently pursuing a degree in Computer Science at the Universidad de Salamanca.  
