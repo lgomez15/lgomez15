@@ -11,13 +11,13 @@ Hello, I'm Luis! 👋
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=react,js,css,html" />
   </a>
 </p>
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,java" />
   </a>
 </p>
 <p align="center">
@@ -29,7 +29,7 @@ Hello, I'm Luis! 👋
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord" />
+    <img src="https://skillicons.dev/icons?i=git,discord,jest,figma" />
   </a>
 </p>
 
