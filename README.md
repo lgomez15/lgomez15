@@ -17,19 +17,19 @@ Hello, I'm Luis! 👋
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cs,java" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,java,dart" />
   </a>
 </p>
 <p align="center">
   <h6>DataBase</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
   </a>
 </p>
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,jest,figma" />
+    <img src="https://skillicons.dev/icons?i=git,discord,jest,figma,flutter" />
   </a>
 </p>
 
