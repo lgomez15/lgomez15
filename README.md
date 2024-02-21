@@ -2,10 +2,10 @@
 
 Hello, I'm Luis! 👋
  
-📚 **Education:** Currently pursuing a degree in Computer Science at the Universidad de Salamanca.  
-💼 **Interests:** I am particularly interested in web technologies, database management, and the seamless integration of front-end and back-end systems.  
-🛠 **Skills:** Currently honing my skills in JavaScript, React, Flask, and other full-stack technologies. I am also exploring database architecture and management, ensuring a comprehensive understanding of all facets of web development.  
-🤝 **Collaboration:** I am eager to collaborate on projects that challenge me and expand my skills. Whether it's contributing to open source or developing unique applications, I am always ready to engage in meaningful and innovative projects.  
+📚 **Education:** Currently pursuing a degree in Computer Science at the Universidad de Salamanca while studying BBAA in the same institution.
+💼 **Interests:** I am particularly interested in web technologies. 
+🛠 **Skills:** Currently honing my skills in Flutter, React, FastApi, and other full-stack technologies. I am also really into Nagios Core.
+🤝 **Collaboration:** I am always ready to engage in meaningful and innovative projects.  
 
 ## Technologies 💻
 <p align="center">
