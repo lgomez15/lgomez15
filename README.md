@@ -3,8 +3,11 @@
 Hello, I'm Luis! 👋
  
 📚 **Education:** Currently pursuing a degree in Computer Science at the Universidad de Salamanca while studying BBAA in the same institution.
-💼 **Interests:** I am particularly interested in web technologies. 
+<br>
+💼 **Interests:** I am particularly interested in web technologies and DevOps. 
+<br>
 🛠 **Skills:** Currently honing my skills in Flutter, React, FastApi, and other full-stack technologies. I am also really into Nagios Core.
+<br>
 🤝 **Collaboration:** I am always ready to engage in meaningful and innovative projects.  
 
 ## Technologies 💻
