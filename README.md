@@ -20,7 +20,7 @@ Hello, I'm Luis! 👋
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java,dart,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi" />
   </a>
 </p>
 <p align="center">
@@ -38,7 +38,7 @@ Hello, I'm Luis! 👋
 <p align="center">
   <h6>Other</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,cs" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,cs,c,java,dart" />
   </a>
 </p>
 
