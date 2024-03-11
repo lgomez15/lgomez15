@@ -32,7 +32,13 @@ Hello, I'm Luis! 👋
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,jest,figma,flutter,docker" />
+    <img src="https://skillicons.dev/icons?i=git,discord,jest,figma,flutter,docker,postman,githubactions" />
+  </a>
+</p>
+<p align="center">
+  <h6>Other</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,cs" />
   </a>
 </p>
 
