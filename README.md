@@ -20,13 +20,13 @@ Hello, I'm Luis! 👋
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,express,node" />
   </a>
 </p>
 <p align="center">
   <h6>DataBase</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
   </a>
 </p>
 <p align="center">
