@@ -20,7 +20,7 @@ Hello, I'm Luis! 👋
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,express,node" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,express,nodejs" />
   </a>
 </p>
 <p align="center">
