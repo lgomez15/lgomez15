@@ -23,13 +23,13 @@ I'm a **Full-Stack Developer** and **Software Engineer** passionate about buildi
 ## 🛠️ Tech Stack
 
 ### Frontend
-[![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Flutter][Flutter.dev]][Flutter-url] [![JavaScript][JavaScript]][JavaScript-url] [![HTML5][HTML5]][HTML-url] [![CSS3][CSS3]][CSS-url]
+[![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Flutter][Flutter.dev]][Flutter-url]
 
 ### Backend
-[![Python][Python]][Python-url] [![FastAPI][FastAPI]][FastAPI-url] [![Node.js][Node.js]][Node-url] [![NestJS][NestJS]][NestJS-url] [![Express.js][Express.js]][Express-url] [![PHP][PHP]][PHP-url]
+[![FastAPI][FastAPI]][FastAPI-url] [![Node.js][Node.js]][Node-url] [![NestJS][NestJS]][NestJS-url] [![Express.js][Express.js]][Express-url][![PHP][PHP]][PHP-url]
 
 ### Databases
-[![MySQL][MySQL]][MySQL-url] [![MongoDB][MongoDB]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![Firebase][Firebase]][Firebase-url] [![GraphQL][GraphQL]][GraphQL-url] [![Prisma][Prisma]][Prisma-url]
+[![MySQL][MySQL]][MySQL-url] [![MongoDB][MongoDB]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![Firebase][Firebase]][Firebase-url] [![GraphQL][GraphQL]][GraphQL-url]
 
 ### DevOps & Tools
 [![Docker][Docker]][Docker-url] [![Kubernetes][Kubernetes]][Kubernetes-url] [![AWS][AWS]][AWS-url] [![Git][Git]][Git-url] [![GitHub Actions][GitHub-Actions]][GitHub-Actions-url] [![Linux][Linux]][Linux-url]
