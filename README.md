@@ -1,4 +1,7 @@
-# Hi there, I'm Luis Roberto Gómez Veiga 👋
+# Hi there, I'm Luis Roberto Gómez Veiga 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lgomez15&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
 
 [![Email](https://img.shields.io/badge/Email-gomez%40usal.es-red?style=flat-square&logo=gmail)](mailto:gomez@usal.es)
 [![GitHub](https://img.shields.io/badge/GitHub-lgomez15-181717?style=flat-square&logo=github)](https://github.com/lgomez15)
@@ -179,6 +182,3 @@ I'm always open to collaborating on innovative projects, discussing new technolo
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lgomez15&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
