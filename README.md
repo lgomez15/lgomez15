@@ -34,7 +34,7 @@ AI-powered application predicting early warning signs of school dropout
 - **Tech Stack:** Python, scikit-learn, TensorFlow, React.js, Node.js, PostgreSQL
 - **Impact:** Delivered functional MVP with interactive dashboard for educators
 
-### 🌾 [Crop Performance Prediction Platform](https://github.com/lgomez15) (2024)
+### 🌾 [Crop Performance Prediction Platform](https://github.com/lgomez15/Potato-Py) (2024)
 ML-powered web application helping farmers optimize crop yield
 - **Tech Stack:** Python, Pandas, PyTorch, FastAPI, Vue.js, MongoDB, Docker, AWS
 - **Achievement:** NASA Space Apps Challenge 2024 project with real-time data visualization
