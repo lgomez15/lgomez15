@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-gomez%40usal.es-red?style=flat-square&logo=gmail)](mailto:gomez@usal.es)
 [![GitHub](https://img.shields.io/badge/GitHub-lgomez15-181717?style=flat-square&logo=github)](https://github.com/lgomez15)
 [![Location](https://img.shields.io/badge/Location-Salamanca%2C%20Spain-blue?style=flat-square&logo=google-maps)](https://goo.gl/maps/salamanca)
-[![Download CV](https://img.shields.io/badge/Download-CV-success?style=flat-square&logo=adobeacrobatreader)](https://github.com/lgomez15/lgomez15/raw/main/cv.pdf)
+[![Download CV](https://img.shields.io/badge/Download-CV-success?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/uc?export=download&id=1CzzagODDGoxA4lorwUVpOsPBORfLpfj2)
 
 ## 👨‍💻 About Me
 
@@ -132,7 +132,7 @@ I'm always open to collaborating on innovative projects, discussing new technolo
 
 - 📧 Email: [gomez@usal.es](mailto:gomez@usal.es)
 - 📱 Phone: +34 663 723 999
-- 📄 [Download my CV](https://github.com/lgomez15/lgomez15/raw/main/cv.pdf)
+- 📄 [Download my CV](https://drive.google.com/uc?export=download&id=1CzzagODDGoxA4lorwUVpOsPBORfLpfj2)
 
 ---
 
