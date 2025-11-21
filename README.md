@@ -62,43 +62,19 @@ ML-powered web application helping farmers optimize crop yield
 ## 🛠️ Tech Stack
 
 ### Frontend
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Flutter][Flutter.dev]][Flutter-url]
-* [![JavaScript][JavaScript]][JavaScript-url]
-* [![HTML5][HTML5]][HTML-url]
-* [![CSS3][CSS3]][CSS-url]
+[![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Flutter][Flutter.dev]][Flutter-url] [![JavaScript][JavaScript]][JavaScript-url] [![HTML5][HTML5]][HTML-url] [![CSS3][CSS3]][CSS-url]
 
 ### Backend
-* [![Python][Python]][Python-url]
-* [![FastAPI][FastAPI]][FastAPI-url]
-* [![Node.js][Node.js]][Node-url]
-* [![NestJS][NestJS]][NestJS-url]
-* [![Express.js][Express.js]][Express-url]
-* [![PHP][PHP]][PHP-url]
+[![Python][Python]][Python-url] [![FastAPI][FastAPI]][FastAPI-url] [![Node.js][Node.js]][Node-url] [![NestJS][NestJS]][NestJS-url] [![Express.js][Express.js]][Express-url] [![PHP][PHP]][PHP-url]
 
 ### Databases
-* [![MySQL][MySQL]][MySQL-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
-* [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
-* [![Firebase][Firebase]][Firebase-url]
-* [![GraphQL][GraphQL]][GraphQL-url]
-* [![Prisma][Prisma]][Prisma-url]
+[![MySQL][MySQL]][MySQL-url] [![MongoDB][MongoDB]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![Firebase][Firebase]][Firebase-url] [![GraphQL][GraphQL]][GraphQL-url] [![Prisma][Prisma]][Prisma-url]
 
 ### DevOps & Tools
-* [![Docker][Docker]][Docker-url]
-* [![Kubernetes][Kubernetes]][Kubernetes-url]
-* [![AWS][AWS]][AWS-url]
-* [![Git][Git]][Git-url]
-* [![GitHub Actions][GitHub-Actions]][GitHub-Actions-url]
-* [![Linux][Linux]][Linux-url]
+[![Docker][Docker]][Docker-url] [![Kubernetes][Kubernetes]][Kubernetes-url] [![AWS][AWS]][AWS-url] [![Git][Git]][Git-url] [![GitHub Actions][GitHub-Actions]][GitHub-Actions-url] [![Linux][Linux]][Linux-url]
 
 ### Other Languages
-* [![C][C]][C-url]
-* [![C#][C#]][C#-url]
-* [![Java][Java]][Java-url]
-* [![Dart][Dart]][Dart-url]
-* [![R][R]][R-url]
+[![C][C]][C-url] [![C#][C#]][C#-url] [![Java][Java]][Java-url] [![Dart][Dart]][Dart-url] [![R][R]][R-url]
 
 <!-- Tech Stack Badges -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
