@@ -26,7 +26,7 @@ I'm a **Full-Stack Developer** and **Software Engineer** passionate about buildi
 [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Flutter][Flutter.dev]][Flutter-url]
 
 ### Backend
-[![FastAPI][FastAPI]][FastAPI-url] [![Node.js][Node.js]][Node-url] [![NestJS][NestJS]][NestJS-url] [![Express.js][Express.js]][Express-url][![PHP][PHP]][PHP-url]
+[![FastAPI][FastAPI]][FastAPI-url] [![NestJS][NestJS]][NestJS-url] [![Express.js][Express.js]][Express-url] [![PHP][PHP]][PHP-url]
 
 ### Databases
 [![MySQL][MySQL]][MySQL-url] [![MongoDB][MongoDB]][MongoDB-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![Firebase][Firebase]][Firebase-url] [![GraphQL][GraphQL]][GraphQL-url]
