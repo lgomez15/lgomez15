@@ -18,45 +18,6 @@ I'm a **Full-Stack Developer** and **Software Engineer** passionate about buildi
 
 💡 **Interests:** Web Technologies, DevOps, Real-Time Systems, Microservices Architecture, Open-Source Collaboration
 
-🌍 **Languages:** Spanish (Native) | English (Native) | Portuguese (Conversational) | French (Basic) | Mandarin (Basic)
-
----
-
-## 🚀 Featured Projects
-
-### 🎙️ [Multi-Tenant SaaS Platform for Voice Assistants](https://github.com/lgomez15) (2025)
-Automated platform for creating intelligent voice assistants with customized management dashboards
-- **Tech Stack:** Python (FastAPI), Node.js, React.js, Rasa, LangChain, spaCy, PostgreSQL, MongoDB, Docker, Kubernetes
-- **Features:** Modular multi-tenant architecture, automated onboarding, voice-enabled interactions
-
-### 📊 [Early Dropout Detection Web App](https://github.com/lgomez15) (2024)
-AI-powered application predicting early warning signs of school dropout
-- **Tech Stack:** Python, scikit-learn, TensorFlow, React.js, Node.js, PostgreSQL
-- **Impact:** Delivered functional MVP with interactive dashboard for educators
-
-### 🌾 [Crop Performance Prediction Platform](https://github.com/lgomez15/Potato-Py) (2024)
-ML-powered web application helping farmers optimize crop yield
-- **Tech Stack:** Python, Pandas, PyTorch, FastAPI, Vue.js, MongoDB, Docker, AWS
-- **Achievement:** NASA Space Apps Challenge 2024 project with real-time data visualization
-
----
-
-## 💼 Professional Experience
-
-**Software Developer** @ BISITE Research Group _(Jan 2025 - Present)_
-- Reduced development cycles by 30% through reusable components
-- Improved API response times by 40% serving 5+ concurrent applications
-- Implemented CI/CD pipelines with GitHub Actions and Docker
-
-**Back End Developer (Intern)** @ Osprean Technologies _(Jan 2025 - Present)_
-- Built real-time messaging service supporting 200+ concurrent users
-- Migrated monolithic Flask app to microservices (deployment time: 15min → 2min)
-- Increased test coverage to 85% with automated testing (Jest)
-
-**Teacher** @ Academia Titania _(Oct 2025 - Present)_
-- Teaching PHP, Networks, SQL, and Programming Fundamentals
-- Mentored 15+ students into programming roles
-
 ---
 
 ## 🛠️ Tech Stack
