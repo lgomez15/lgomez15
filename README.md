@@ -105,7 +105,7 @@ I'm a **Full-Stack Developer** and **Software Engineer** passionate about buildi
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=lgomez15&show_icons=true&theme=tokyonight" />
+    ![Estadísticas de Luis Roberto Gómez Veiga](https://github-readme-stats.vercel.app/api?username=lgomez15&show_icons=true&theme=tokyonight)
   </a>
 </details>
 
