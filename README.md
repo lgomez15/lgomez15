@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=238636,1a472a,3d1f6e&height=180&section=header&text=Luis%20Roberto%20G%C3%B3mez%20Veiga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20Software%20Architect%20%E2%80%A2%20CS%20%2B%20Business%20%40%20USAL&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=0d1117,238636,2ea043&height=180&section=header&text=Luis%20Roberto%20G%C3%B3mez%20Veiga&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20Software%20Architect%20%E2%80%A2%20CS%20%2B%20Business%20%40%20USAL&descAlignY=55&descSize=16"/>
 
 <br/>
 
@@ -12,10 +12,12 @@
 <br/>
 
 ```
+
 ╔═══════════════════════════════════════════════════════════════╗
-║  Building scalable systems, real-time architectures, and     ║
-║  products that actually ship — from Panama to production. ║
+║  Building scalable systems, real-time architectures, and      ║
+║  products that actually ship — from Panama to production.     ║
 ╚═══════════════════════════════════════════════════════════════╝
+
 ```
 
 </div>
@@ -115,17 +117,19 @@ I care about clean architecture, real-time systems, and software that doesn't fa
 ## `$ git log --oneline ./experience`
 
 ```
+
 2024 → now   feat: Software Engineer @ Osprean Technologies
-             └─ Real-time messaging, microservices architecture, production systems
+└─ Real-time messaging, microservices architecture, production systems
 
 2024 → now   feat: TFG/Thesis — Multi-tenant Voice Assistant SaaS
-             └─ Designing the full system from scratch: infra, backend, and AI integration
+└─ Designing the full system from scratch: infra, backend, and AI integration
 
 2023 → now   feat: Full-Stack Developer @ BISITE Research Group (USAL)
-             └─ Research-grade web applications bridging science and engineering
+└─ Research-grade web applications bridging science and engineering
 
 2023 → now   feat: Programming Instructor @ Academia Titania
-             └─ Teaching PHP, SQL, networking, and fundamentals to aspiring devs
+└─ Teaching PHP, SQL, networking, and fundamentals to aspiring devs
+
 ```
 
 ---
@@ -157,6 +161,6 @@ I care about clean architecture, real-time systems, and software that doesn't fa
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=238636,1a472a,3d1f6e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=0d1117,238636,2ea043&height=100&section=footer"/>
 
 </div>
