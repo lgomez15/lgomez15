@@ -14,7 +14,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║  Building scalable systems, real-time architectures, and     ║
-║  products that actually ship — from Salamanca to production. ║
+║  products that actually ship — from Panama to production. ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -133,16 +133,7 @@ I care about clean architecture, real-time systems, and software that doesn't fa
 ## `$ cat ./stats`
 
 <div align="center">
-
-<a href="https://github.com/lgomez15">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lgomez15&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=A78BFA&text_color=C9D1D9&since=2025-01-01" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgomez15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=C9D1D9" />
-</a>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lgomez15&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB2&fire=FF4D6D&currStreakLabel=00FFB2" />
-
 </div>
 
 ---
