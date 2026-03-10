@@ -48,17 +48,17 @@ I care about clean architecture, real-time systems, and software that doesn't fa
 
 ## `$ cat thesis/architecture.md`
 
-> **Multi-tenant SaaS — Natural Language Booking Platform**  
-> Reservation management via **Telegram** using **Google Gemini** with isolated Docker containers per tenant. Designed for VoIP expansion.
+> **Multi-tenant SaaS — Intelligent Booking Assistant**  
+> A platform that lets any business offer an AI-powered booking assistant to their customers — accessible via **Telegram, WhatsApp, or phone call (VoIP)** — without writing a single line of code. Each business (tenant) gets a fully isolated environment: its own database, its own backend, and its own AI assistant configured to its services and schedule. Under the hood, **GPT-4o** understands natural language, resolves intent, and calls the right tools to create, modify, or cancel reservations in real time.
 
 ```mermaid
 graph TB
-    User["👤 User"] -->|message| TG["Telegram Bot API"]
-    TG -->|webhook| GW["📡 Gateway"]
-    GW --> MCP["🧠 MCP Server\n(Gemini + tool calling)"]
+    User["👤 User"] -->|natural language| CH["📲 Channel\nTelegram · WhatsApp · VoIP"]
+    CH --> GW["📡 Gateway\n(channel adapter)"]
+    GW --> MCP["🧠 MCP Server\n(GPT-4o + tool calling)"]
     MCP --> TenantAPI["🏢 Tenant API\n(isolated per client)"]
     TenantAPI --> TenantDB["🗄️ Tenant DB"]
-    MCP --> Gemini["☁️ Google Gemini"]
+    MCP --> GPT["☁️ OpenAI GPT-4o"]
 
     Admin["👨‍💼 Admin"] --> Frontend["🖥️ React SPA"]
     Frontend --> Core["⚙️ Core API\n(auth · tenants · RBAC)"]
@@ -68,11 +68,11 @@ graph TB
 
 | Layer | Tech |
 |-------|------|
-| **AI / LLM** | Google Gemini 2.0 Flash · dynamic tool calling |
+| **AI / LLM** | OpenAI GPT-4o · dynamic tool calling |
+| **Channels** | Telegram · WhatsApp · VoIP |
 | **Backend** | FastAPI · SQLAlchemy · JWT + RBAC |
 | **Frontend** | React 18 · Vite |
-| **Infra** | Docker · Traefik · isolated networks per tenant |
-| **Messaging** | Telegram Bot API (VoIP-ready architecture) |
+| **Infra** | Docker · Traefik · isolated network per tenant |
 
 ---
 
