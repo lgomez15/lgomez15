@@ -28,7 +28,7 @@
 
 Hey — I'm Luis Roberto. I'm a **Full-Stack Developer** finishing a **Dual Bachelor's in Computer Science + Business Administration** at the University of Salamanca (May 2026).
 
-I spend my time building microservices at **Osprean Technologies**, doing research-grade full-stack work at **BISITE**, architecting a multi-tenant SaaS voice assistant platform for my thesis, and teaching the next generation of developers at **Academia Titania**.
+I spend my time building microservices at **Osprean Technologies**, doing research-grade full-stack work at **BISITE**, and architecting a multi-tenant SaaS voice assistant platform for my thesis.
 
 I care about clean architecture, real-time systems, and software that doesn't fall apart at scale.
 
@@ -43,7 +43,36 @@ I care about clean architecture, real-time systems, and software that doesn't fa
 | 🟢 **Active** | Multi-tenant SaaS for intelligent voice assistants *(thesis)* | FastAPI · NestJS · K8s · WebSockets |
 | 🟢 **Active** | Real-time messaging & microservices @ **Osprean Technologies** | Node.js · Docker · MongoDB · AWS |
 | 🟢 **Active** | Full-stack web applications @ **BISITE Research Group** | React · FastAPI · PostgreSQL |
-| 🟢 **Active** | Teaching programming, PHP, SQL & Networks @ **Academia Titania** | PHP · SQL · Networking |
+
+---
+
+## `$ cat thesis/architecture.md`
+
+> **Multi-tenant SaaS — Natural Language Booking Platform**  
+> Reservation management via **Telegram** using **Google Gemini** with isolated Docker containers per tenant. Designed for VoIP expansion.
+
+```mermaid
+graph TB
+    User["👤 User"] -->|message| TG["Telegram Bot API"]
+    TG -->|webhook| GW["📡 Gateway"]
+    GW --> MCP["🧠 MCP Server\n(Gemini + tool calling)"]
+    MCP --> TenantAPI["🏢 Tenant API\n(isolated per client)"]
+    TenantAPI --> TenantDB["🗄️ Tenant DB"]
+    MCP --> Gemini["☁️ Google Gemini"]
+
+    Admin["👨‍💼 Admin"] --> Frontend["🖥️ React SPA"]
+    Frontend --> Core["⚙️ Core API\n(auth · tenants · RBAC)"]
+    Core -->|Docker SDK| TenantAPI
+    Core --> CoreDB["🗄️ Central DB"]
+```
+
+| Layer | Tech |
+|-------|------|
+| **AI / LLM** | Google Gemini 2.0 Flash · dynamic tool calling |
+| **Backend** | FastAPI · SQLAlchemy · JWT + RBAC |
+| **Frontend** | React 18 · Vite |
+| **Infra** | Docker · Traefik · isolated networks per tenant |
+| **Messaging** | Telegram Bot API (VoIP-ready architecture) |
 
 ---
 
@@ -126,9 +155,6 @@ I care about clean architecture, real-time systems, and software that doesn't fa
 
 2023 → now   feat: Full-Stack Developer @ BISITE Research Group (USAL)
 └─ Research-grade web applications bridging science and engineering
-
-2023 → now   feat: Programming Instructor @ Academia Titania
-└─ Teaching PHP, SQL, networking, and fundamentals to aspiring devs
 
 ```
 
