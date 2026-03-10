@@ -143,6 +143,27 @@ graph TB
 
 ---
 
+## `$ cat thesis2/uncertainty.md`
+
+> **Uncertainty Indicators & Financial Market Volatility**  
+> A quantitative research project analyzing how economic and geopolitical uncertainty indices (EPU, CNEPU) relate to asset volatility across the US and Chinese markets. Built end-to-end: from raw data ingestion and cleaning, through EDA, to GARCH-X predictive modeling — covering daily and monthly horizons across equities, gold, and crypto.
+
+| Market | Key Finding |
+|--------|-------------|
+| **US EPU → S&P 500** | Correlation with 30d volatility: `0.625` — high-uncertainty regimes drive `1.93x` more vol |
+| **US EPU → Gold** | Moderate correlation `0.545`, lag effect peaks at 2 days |
+| **US EPU → Bitcoin** | Near-zero relationship `0.025` — crypto decoupled from policy uncertainty |
+| **China CNEPU → CSI 300** | Negative correlation `-0.321`; strongest predictive lag at **12 months** |
+
+| Layer | Tech |
+|-------|------|
+| **Languages** | Python · Jupyter |
+| **Modeling** | GARCH-X · time-series regression |
+| **Data** | EPU Index · CNEPU · S&P 500 · CSI 300 · Gold · Bitcoin |
+| **Pipeline** | pandas · statsmodels · matplotlib · seaborn |
+
+---
+
 ## `$ git log --oneline ./experience`
 
 ```
@@ -150,11 +171,17 @@ graph TB
 2024 → now   feat: Software Engineer @ Osprean Technologies
 └─ Real-time messaging, microservices architecture, production systems
 
-2024 → now   feat: TFG/Thesis — Multi-tenant Voice Assistant SaaS
+2024 → now   feat: TFG — Multi-tenant Voice Assistant SaaS
 └─ Designing the full system from scratch: infra, backend, and AI integration
+
+2024 → now   feat: TFG — Uncertainty Indicators & Market Volatility
+└─ Quantitative analysis of EPU indices vs asset volatility (GARCH-X modeling)
 
 2023 → now   feat: Full-Stack Developer @ BISITE Research Group (USAL)
 └─ Research-grade web applications bridging science and engineering
+
+2023 → 2025   past: Programming Instructor @ Academia Titania
+└─ Taught PHP, SQL, networking, and fundamentals to aspiring devs
 
 ```
 
