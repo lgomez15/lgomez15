@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12,20,24&height=200&section=header&text=luis@m2g:~$&fontSize=52&fontColor=e6fff0&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20·%20Software%20Architect%20·%20CS%20%2B%20Business%20@%20USAL&descAlignY=58&descSize=15&stroke=2ea043&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,12,20,24&height=200&section=header&text=luis@m2g:~$&fontSize=52&fontColor=e6fff0&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20·%20CS%20%2B%20Business%20@%20USAL&descAlignY=58&descSize=15&stroke=2ea043&strokeWidth=1"/>
 
 <!-- Live "typing" terminal — the closest a GitHub README gets to interactive -->
 <a href="https://github.com/lgomez15">
